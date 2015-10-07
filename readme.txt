@@ -1,4 +1,4 @@
-App Lembrete de medicamentos
+App tinder de carros
 
 Alunos:
 
@@ -6,7 +6,7 @@ Alunos:
  - Tales Mantovani
 
 - Aplicativo com login
-- Cadastrar lembretes para alarme de medicamentos
-- Cadastrar data de validade com alertas de vencimento
-- Alertar no dia e horário cadastrado o medicamento a ser tomado
-- edição e exclusão de alarmes cadastrados
+- Sendo anunciante -> Cadastrar carros
+- Sendo um usuário comum -> ver listagem de carros e obter contato do anunciante
+- Sendo um usuário comum -> poder enviar uma proposta com valor para o anunciante
+- edição e exclusão de cadastros
